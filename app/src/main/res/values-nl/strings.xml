@@ -65,7 +65,7 @@
     <string name="license">Licentie</string>
     <string name="car">Auto</string>
     <string name="about">Over</string>
-    <string name="local">Lokaal</string>
+    <string name="local">In-App</string>
     <string name="more">Meer</string>
     <string name="translation">Vertaling</string>
     <string name="address">Adres</string>
@@ -74,7 +74,7 @@
     <string name="dark">Donker</string>
     <string name="home">Thuis</string>
     <string name="cancel">Annuleer</string>
-    <string name="irreversible">Weet je het zeker\? Dit kan niet ongedaan gemaakt worden.</string>
+    <string name="irreversible">Weet je het zeker? Dit kan niet ongedaan gemaakt worden!</string>
     <string name="blog">Blog</string>
     <string name="nick_name">Bijnaam</string>
     <string name="colorful_contact_icons">Kleurrijke contactpictogrammen</string>
@@ -107,4 +107,21 @@
     <string name="note">Notitie</string>
     <string name="homepage">Startpagina</string>
     <string name="export_success">Geëxporteerd.</string>
+    <string name="favorite">Favoriet</string>
+    <string name="favorites_only">Alleen favorieten</string>
+    <string name="cant_respond">Kan niet reageren</string>
+    <string name="send_message_as_multiple">Wil je het bericht als meerdere kleinere sturen?</string>
+    <string name="failed_send_sms">Het bezorgen van de sms is mislukt. Wilt u het opnieuw versturen?</string>
+    <string name="resend">Stuur opnieuw</string>
+    <string name="set_default_sms_app">Maak Connect You alsjeblieft je standaard SMS-app in je Android-instellingen! Bij recente Android-versies moet je Beperkte Rechten toestaan om dat te bereiken.</string>
+    <string name="in_progress">Bezig</string>
+    <string name="ringing">Gaat af…</string>
+    <string name="disconnecting">Verbinding verbreken…</string>
+    <string name="connecting">Verbinden…</string>
+    <string name="confirm_start_call">Wil je %1$s bellen?</string>
+    <string name="mute">Demp</string>
+    <string name="speakers">Speakers</string>
+    <string name="import_sms">Importeer SMS</string>
+    <string name="export_sms">Exporteer SMS</string>
+    <string name="import_confirm">Wil je het geselecteerde VCF-bestand importeren?</string>
 </resources>
